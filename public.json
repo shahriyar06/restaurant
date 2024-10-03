@@ -1,0 +1,74 @@
+[
+    {
+      "restaurantImage": "https://example.com/images/restaurant1.jpg",
+      "restaurantName": "Juice Love",
+      "location": "123 Main St, Chittagong, Bangladesh",
+      "openTime": "9:00 AM",
+      "closeTime": "10:00 PM",
+      "favoriteNumber": 450,
+      "reviewNumber": 120
+    },
+    {
+      "restaurantImage": "https://example.com/images/restaurant2.jpg",
+      "restaurantName": "Green Bowl",
+      "location": "456 Elm St, Dhaka, Bangladesh",
+      "openTime": "8:00 AM",
+      "closeTime": "11:00 PM",
+      "favoriteNumber": 600,
+      "reviewNumber": 200
+    },
+  {
+      "restaurantImage": "https://example.com/images/restaurant4.jpg",
+      "restaurantName": "Sea Breeze",
+      "location": "101 River Rd, Cox's Bazar, Bangladesh",
+      "openTime": "7:00 AM",
+      "closeTime": "11:00 PM",
+      "favoriteNumber": 850,
+      "reviewNumber": 500
+    },
+    {
+      "restaurantImage": "https://example.com/images/restaurant3.jpg",
+      "restaurantName": "Spice Paradise",
+      "location": "789 Oak St, Sylhet, Bangladesh",
+      "openTime": "10:00 AM",
+      "closeTime": "9:00 PM",
+      "favoriteNumber": 300,
+      "reviewNumber": 80
+    },
+    {
+      "restaurantImage": "https://example.com/images/restaurant5.jpg",
+      "restaurantName": "Mountain Delight",
+      "location": "202 Hill Rd, Bandarban, Bangladesh",
+      "openTime": "11:00 AM",
+      "closeTime": "10:00 PM",
+      "favoriteNumber": 400,
+      "reviewNumber": 100
+    },
+    {
+      "restaurantImage": "https://example.com/images/restaurant6.jpg",
+      "restaurantName": "Urban Feast",
+      "location": "303 City Ave, Khulna, Bangladesh",
+      "openTime": "9:00 AM",
+      "closeTime": "9:00 PM",
+      "favoriteNumber": 500,
+      "reviewNumber": 150
+    },
+    {
+      "restaurantImage": "https://example.com/images/restaurant7.jpg",
+      "restaurantName": "Deshi Diner",
+      "location": "404 Lake Rd, Barisal, Bangladesh",
+      "openTime": "10:00 AM",
+      "closeTime": "10:00 PM",
+      "favoriteNumber": 750,
+      "reviewNumber": 220
+    },
+    {
+      "restaurantImage": "https://example.com/images/restaurant8.jpg",
+      "restaurantName": "Café Riverfront",
+      "location": "505 Harbor St, Rajshahi, Bangladesh",
+      "openTime": "8:00 AM",
+      "closeTime": "10:00 PM",
+      "favoriteNumber": 900,
+      "reviewNumber": 320
+    }
+  ]
