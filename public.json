@@ -1,6 +1,6 @@
 [
     {
-      "restaurantImage": "https://example.com/images/restaurant1.jpg",
+      "restaurantImage": "https://i.ibb.co.com/rpZFRPZ/restaurant1.jpg",
       "restaurantName": "Juice Love",
       "location": "123 Main St, Chittagong, Bangladesh",
       "openTime": "9:00 AM",
@@ -9,7 +9,7 @@
       "reviewNumber": 120
     },
     {
-      "restaurantImage": "https://example.com/images/restaurant2.jpg",
+      "restaurantImage": "https://i.ibb.co.com/wwkLhQW/restaurant2.jpg",
       "restaurantName": "Green Bowl",
       "location": "456 Elm St, Dhaka, Bangladesh",
       "openTime": "8:00 AM",
@@ -18,7 +18,7 @@
       "reviewNumber": 200
     },
   {
-      "restaurantImage": "https://example.com/images/restaurant4.jpg",
+      "restaurantImage": "https://i.ibb.co.com/LCKYmXS/restaurant3.jpg",
       "restaurantName": "Sea Breeze",
       "location": "101 River Rd, Cox's Bazar, Bangladesh",
       "openTime": "7:00 AM",
@@ -27,7 +27,7 @@
       "reviewNumber": 500
     },
     {
-      "restaurantImage": "https://example.com/images/restaurant3.jpg",
+      "restaurantImage": "https://i.ibb.co.com/NTqcX8n/restaurant4.jpg",
       "restaurantName": "Spice Paradise",
       "location": "789 Oak St, Sylhet, Bangladesh",
       "openTime": "10:00 AM",
@@ -36,7 +36,7 @@
       "reviewNumber": 80
     },
     {
-      "restaurantImage": "https://example.com/images/restaurant5.jpg",
+      "restaurantImage": "https://i.ibb.co.com/HtMycFM/restaurant5.jpg",
       "restaurantName": "Mountain Delight",
       "location": "202 Hill Rd, Bandarban, Bangladesh",
       "openTime": "11:00 AM",
@@ -45,7 +45,7 @@
       "reviewNumber": 100
     },
     {
-      "restaurantImage": "https://example.com/images/restaurant6.jpg",
+      "restaurantImage": "https://i.ibb.co.com/hWD65s0/restaurant6.jpg",
       "restaurantName": "Urban Feast",
       "location": "303 City Ave, Khulna, Bangladesh",
       "openTime": "9:00 AM",
