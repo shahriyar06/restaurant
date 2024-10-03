@@ -1,74 +1,82 @@
 [
-    {
-      "restaurantImage": "https://i.ibb.co.com/rpZFRPZ/restaurant1.jpg",
-      "restaurantName": "Juice Love",
-      "location": "123 Main St, Chittagong, Bangladesh",
-      "openTime": "9:00 AM",
-      "closeTime": "10:00 PM",
-      "favoriteNumber": 450,
-      "reviewNumber": 120
-    },
-    {
-      "restaurantImage": "https://i.ibb.co.com/wwkLhQW/restaurant2.jpg",
-      "restaurantName": "Green Bowl",
-      "location": "456 Elm St, Dhaka, Bangladesh",
-      "openTime": "8:00 AM",
-      "closeTime": "11:00 PM",
-      "favoriteNumber": 600,
-      "reviewNumber": 200
-    },
   {
-      "restaurantImage": "https://i.ibb.co.com/LCKYmXS/restaurant3.jpg",
-      "restaurantName": "Sea Breeze",
-      "location": "101 River Rd, Cox's Bazar, Bangladesh",
-      "openTime": "7:00 AM",
-      "closeTime": "11:00 PM",
-      "favoriteNumber": 850,
-      "reviewNumber": 500
-    },
-    {
-      "restaurantImage": "https://i.ibb.co.com/NTqcX8n/restaurant4.jpg",
-      "restaurantName": "Spice Paradise",
-      "location": "789 Oak St, Sylhet, Bangladesh",
-      "openTime": "10:00 AM",
-      "closeTime": "9:00 PM",
-      "favoriteNumber": 300,
-      "reviewNumber": 80
-    },
-    {
-      "restaurantImage": "https://i.ibb.co.com/HtMycFM/restaurant5.jpg",
-      "restaurantName": "Mountain Delight",
-      "location": "202 Hill Rd, Bandarban, Bangladesh",
-      "openTime": "11:00 AM",
-      "closeTime": "10:00 PM",
-      "favoriteNumber": 400,
-      "reviewNumber": 100
-    },
-    {
-      "restaurantImage": "https://i.ibb.co.com/hWD65s0/restaurant6.jpg",
-      "restaurantName": "Urban Feast",
-      "location": "303 City Ave, Khulna, Bangladesh",
-      "openTime": "9:00 AM",
-      "closeTime": "9:00 PM",
-      "favoriteNumber": 500,
-      "reviewNumber": 150
-    },
-    {
-      "restaurantImage": "https://example.com/images/restaurant7.jpg",
-      "restaurantName": "Deshi Diner",
-      "location": "404 Lake Rd, Barisal, Bangladesh",
-      "openTime": "10:00 AM",
-      "closeTime": "10:00 PM",
-      "favoriteNumber": 750,
-      "reviewNumber": 220
-    },
-    {
-      "restaurantImage": "https://example.com/images/restaurant8.jpg",
-      "restaurantName": "Café Riverfront",
-      "location": "505 Harbor St, Rajshahi, Bangladesh",
-      "openTime": "8:00 AM",
-      "closeTime": "10:00 PM",
-      "favoriteNumber": 900,
-      "reviewNumber": 320
-    }
-  ]
+    "restaurantImage": "https://i.ibb.co.com/rpZFRPZ/restaurant1.jpg",
+    "restaurantName": "Juice Love",
+    "location": "123 Main St, Chittagong, Bangladesh",
+    "openTime": "9:00 AM",
+    "closeTime": "10:00 PM",
+    "favoriteNumber": 450,
+    "reviewNumber": 120,
+    "description": "A cozy spot specializing in fresh, organic juice blends and smoothies, perfect for health-conscious individuals."
+  },
+  {
+    "restaurantImage": "https://i.ibb.co.com/wwkLhQW/restaurant2.jpg",
+    "restaurantName": "Green Bowl",
+    "location": "456 Elm St, Dhaka, Bangladesh",
+    "openTime": "8:00 AM",
+    "closeTime": "11:00 PM",
+    "favoriteNumber": 600,
+    "reviewNumber": 200,
+    "description": "A modern eatery offering a variety of nutritious salads, grain bowls, and vegetarian options."
+  },
+  {
+    "restaurantImage": "https://i.ibb.co.com/LCKYmXS/restaurant3.jpg",
+    "restaurantName": "Sea Breeze",
+    "location": "101 River Rd, Cox's Bazar, Bangladesh",
+    "openTime": "7:00 AM",
+    "closeTime": "11:00 PM",
+    "favoriteNumber": 850,
+    "reviewNumber": 500,
+    "description": "Enjoy fresh seafood dishes while taking in the beautiful seaside view at this popular beachfront restaurant."
+  },
+  {
+    "restaurantImage": "https://i.ibb.co.com/NTqcX8n/restaurant4.jpg",
+    "restaurantName": "Spice Paradise",
+    "location": "789 Oak St, Sylhet, Bangladesh",
+    "openTime": "10:00 AM",
+    "closeTime": "9:00 PM",
+    "favoriteNumber": 300,
+    "reviewNumber": 80,
+    "description": "An authentic culinary experience featuring a wide range of spicy, flavorful dishes from across Bangladesh."
+  },
+  {
+    "restaurantImage": "https://i.ibb.co.com/HtMycFM/restaurant5.jpg",
+    "restaurantName": "Mountain Delight",
+    "location": "202 Hill Rd, Bandarban, Bangladesh",
+    "openTime": "11:00 AM",
+    "closeTime": "10:00 PM",
+    "favoriteNumber": 400,
+    "reviewNumber": 100,
+    "description": "A scenic restaurant nestled in the hills of Bandarban, offering traditional and contemporary mountain cuisine."
+  },
+  {
+    "restaurantImage": "https://i.ibb.co.com/hWD65s0/restaurant6.jpg",
+    "restaurantName": "Urban Feast",
+    "location": "303 City Ave, Khulna, Bangladesh",
+    "openTime": "9:00 AM",
+    "closeTime": "9:00 PM",
+    "favoriteNumber": 500,
+    "reviewNumber": 150,
+    "description": "A bustling restaurant offering a diverse menu with a blend of local and international cuisines, perfect for urban foodies."
+  },
+  {
+    "restaurantImage": "https://example.com/images/restaurant7.jpg",
+    "restaurantName": "Deshi Diner",
+    "location": "404 Lake Rd, Barisal, Bangladesh",
+    "openTime": "10:00 AM",
+    "closeTime": "10:00 PM",
+    "favoriteNumber": 750,
+    "reviewNumber": 220,
+    "description": "A family-friendly restaurant with a focus on traditional Bangladeshi dishes, cooked with a homestyle touch."
+  },
+  {
+    "restaurantImage": "https://example.com/images/restaurant8.jpg",
+    "restaurantName": "Café Riverfront",
+    "location": "505 Harbor St, Rajshahi, Bangladesh",
+    "openTime": "8:00 AM",
+    "closeTime": "10:00 PM",
+    "favoriteNumber": 900,
+    "reviewNumber": 320,
+    "description": "A trendy café by the river, known for its serene ambiance, artisanal coffee, and delightful pastries."
+  }
+]
